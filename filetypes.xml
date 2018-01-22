@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="control" type="CLASS" />
+      <mapping pattern="controll" type="CLASS" />
       <mapping pattern="ruaruarua.java" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
