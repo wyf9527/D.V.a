@@ -1,0 +1,49 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Main.java" timestamp="1511703129751">
+        <mark key="[" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/thread/src/aksd.java" timestamp="1511703264091">
+        <mark key="[" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/thread/src/P165_2.java" timestamp="1511704761877">
+        <mark key="[" line="0" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1511703369247">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/thread/src/P165_3.java" timestamp="1511709053721">
+        <mark key="[" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1511703179843">
+        <mark key="[" line="0" column="17" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>import java.util.Scanner;</text>
+      </register>
+      <register name="-" type="4">
+        <text>import java.util.Scanner;</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
